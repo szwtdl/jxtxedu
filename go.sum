@@ -1,0 +1,4 @@
+github.com/szwtdl/req v1.0.0-beta h1:behRUwcLxH5/rdFgZHRPOoWqL4QDW2F/85AROiughLw=
+github.com/szwtdl/req v1.0.0-beta/go.mod h1:sjpgk6yOk6mIKb+5trh/ADlXTLGTpNep03fFhFFzo7I=
+golang.org/x/crypto v0.33.0 h1:IOBPskki6Lysi0lo9qQvbxiQ+FvsCC/YWOecCHAixus=
+golang.org/x/crypto v0.33.0/go.mod h1:bVdXmD7IV/4GdElGPozy6U7lWdRXA4qyRVGJV57uQ5M=
